@@ -1,0 +1,10 @@
+version=1
+id=3431517944
+title=Yönetici Tuþlarý / Kýsayollarý
+description=Etkinlikler için tasarlanmýþ olan yönetici tuþlarý modu.
+description=
+description=Kick: kick.com/lighttune
+description=Instagram: instagram.com/xugurm
+description=Youtube: LightTune
+tags=Multiplayer
+visibility=public

@@ -1,0 +1,15 @@
+UI_EN = {
+    UI_optionscreen_binding_AdminKeybinds = "Yönetici Kısayol Ayarları",
+    UI_optionscreen_binding_ToggleEverything = "Her Şeyi Aç/Kapat",
+    UI_optionscreen_binding_ToggleInvisibility = "Görünmezliği Aç/Kapat",
+    UI_optionscreen_binding_ToggleInvincibility = "Yenilmezliği Aç/Kapat",
+    UI_optionscreen_binding_ToggleGhostMode = "Hayalet Modu Aç/Kapat",
+    UI_optionscreen_binding_ToggleNoClip = "No Clip Modunu Aç/Kapat",
+    UI_optionscreen_binding_ToggleFastMove = "Hızlı Hareketi Aç/Kapat",
+    UI_optionscreen_binding_ToggleCanSeeEveryone = "Herkesi Görebilme Modunu Aç/Kapat",
+    UI_optionscreen_binding_ToggleNameVisibility = "Tüm Yönetici İsimlerini Göster/Gizle",
+    UI_optionscreen_binding_ToggleBrushTool = "Fırça Araçını Aç/Kapat",
+    UI_optionscreen_binding_ToggleAccessLevel = "Erişim Seviyesini Değiştir",
+    
+    UI_buckleAlert = "Emniyet kemerinizi takın! Çan sesini açıp kapatmak için sağ tıklayın."
+}
